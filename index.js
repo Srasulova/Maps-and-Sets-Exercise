@@ -32,6 +32,9 @@ console.log(m)
 const hasDuplicate = arr => new Set(arr).size !== arr.length
 
 
-
+const vowelCount = (str) => {
+    let vowels = "aeiou";
+    
+}
 
 
